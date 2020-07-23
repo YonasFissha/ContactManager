@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ContactManager/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/ContactManager/static/js/main.42a3c5a8.chunk.js",
+    "main.js.map": "/ContactManager/static/js/main.42a3c5a8.chunk.js.map",
+    "runtime-main.js": "/ContactManager/static/js/runtime-main.a88dc3ce.js",
+    "runtime-main.js.map": "/ContactManager/static/js/runtime-main.a88dc3ce.js.map",
+    "static/css/2.78571c84.chunk.css": "/ContactManager/static/css/2.78571c84.chunk.css",
+    "static/js/2.75629119.chunk.js": "/ContactManager/static/js/2.75629119.chunk.js",
+    "static/js/2.75629119.chunk.js.map": "/ContactManager/static/js/2.75629119.chunk.js.map",
+    "index.html": "/ContactManager/index.html",
+    "precache-manifest.3ac1a063b6132f34745cd70e1a6eb31d.js": "/ContactManager/precache-manifest.3ac1a063b6132f34745cd70e1a6eb31d.js",
+    "service-worker.js": "/ContactManager/service-worker.js",
+    "static/css/2.78571c84.chunk.css.map": "/ContactManager/static/css/2.78571c84.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/ContactManager/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.75629119.chunk.js.LICENSE.txt": "/ContactManager/static/js/2.75629119.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/ContactManager/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a88dc3ce.js",
+    "static/css/2.78571c84.chunk.css",
+    "static/js/2.75629119.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.42a3c5a8.chunk.js"
+  ]
+}
